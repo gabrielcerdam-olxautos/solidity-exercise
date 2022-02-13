@@ -3,6 +3,9 @@
 `npm install`
 `truffle compile`
 
+in other tab of terminal run:
+`ganache-cli -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"`
+
 ## Develop
 
 To run truffle tests:
